@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @02aksha
+- 👋 Hi, I’m akshaya kumar muguli
 - 👀 I’m interested in ... solving problems 
-- 🌱 I’m currently learning ...web development.
-- 💞️ I’m looking to collaborate on ...any one who can trust me
-- 📫 How to reach me ...insta-_aakshay._
+- 🌱 I’m a full stack web developer.
+- 💞️ I’m looking to collaborate on ...any one who can trust me.
+- 📫 How to reach me ...insta-_aakshay._ and ig._akshay
 - wp-8093700729
-- 
+- To get the best resources jion me on github.
 
 
 <!---
